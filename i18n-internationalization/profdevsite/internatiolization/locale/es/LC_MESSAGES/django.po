@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-15 20:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+#: internatiolization/templates/internatiolization/index.html:3
+msgid "Hello There"
+msgstr "hola de nuevo!"
+
+#: internatiolization/templates/internatiolization/index.html:6
+msgid ""
+" Life is a journey, not a destination. It's easy to get\n"
+"    caught up in the idea of reaching a particular endpoint, whether it's a\n"
+"    goal, a career milestone, or a personal achievement. But the truth is, "
+"life\n"
+"    is all about the experiences we have and the people we meet along the "
+"way.\n"
+"    Every day is an opportunity to learn something new, to grow as a person, "
+"and\n"
+"    to appreciate the world around us. So instead of focusing solely on the "
+"end\n"
+"    result, take time to enjoy the moments in between. Spend time with "
+"loved\n"
+"    ones, explore new places, and pursue your passions. Embrace the ups and\n"
+"    downs of life as part of the journey, and remember that it's the "
+"journey\n"
+"    itself that makes life truly fulfilling. "
+msgstr "La vida es un viaje, no un destino. Es fácil obsesionarse con la idea de llegar a un punto final específico, ya sea una meta, un logro profesional o un logro personal. Pero la verdad es que la vida se trata de las experiencias que tenemos y de las personas que conocemos en el camino. Cada día es una oportunidad para aprender algo nuevo, crecer como persona y apreciar el mundo que nos rodea. Así que en lugar de enfocarte únicamente en el resultado final, tómate el tiempo para disfrutar los momentos intermedios. Pasa tiempo con tus seres queridos, explora nuevos lugares y persigue tus pasiones. Acepta los altibajos de la vida como parte del viaje y recuerda que es el viaje en sí mismo lo que hace que la vida sea realmente gratificante."
