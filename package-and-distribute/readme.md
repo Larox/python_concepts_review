@@ -1,6 +1,6 @@
 # How to distribute a Python package through Pypi
 
-##Important Files for the package
+## Important Files for the package
 
 ### The setup.py file
 
